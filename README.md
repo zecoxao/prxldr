@@ -13,7 +13,7 @@ If you also copy the file "psplibdoc.xml" into the "IDA/loaders" directory this 
 * balika011 updated prxldr for a newer version of IDA
 * xorloser updated prxldr for IDA v7.5 sp3, fixed some 32bit pointer stuff and added decompiler setup (requires MIPS hexrays decompiler to decompile).
 * thecobra created the bundled psplibdoc.xml in the releases zip (afaik)
-* Sorvigolova ported to 9.0 rc1
+* Sorvigolova ported to IDA 9.0 rc1
 
 ## Limitations
 Does not support encryped PRX files.
