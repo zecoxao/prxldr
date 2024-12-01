@@ -16,7 +16,7 @@ If you also copy the file "psplibdoc.xml" into the "IDA/loaders" directory this 
 * Sorvigolova ported to IDA 9.0 rc1
 
 ## Limitations
-Does not support encryped PRX files.
+Does not support encrypted PRX files.
 
 Does not properly support the PSP ABI when decompiling (but works decently).
 It seems the PSP ABI is actually some custom sony "mips eabi" thing,
